@@ -1,0 +1,14 @@
+<html>
+<title> About Us </title>
+<head> 
+<p>about us </p>
+</head>
+<body bg color = "green">
+<style = "javascript/html">
+<div >
+This the the first project about a blog that i have 
+created , which allows signed users to create an article and post it .. so that other users can watch 
+</div>
+</style>
+</body>
+</html>

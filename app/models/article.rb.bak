@@ -1,0 +1,5 @@
+class Article < ActiveRecord::Base
+  attr_accessible :description, :title , :email
+validates_presence_of :title 
+validates_presence_of :description 
+end
